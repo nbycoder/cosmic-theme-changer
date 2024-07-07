@@ -11,7 +11,7 @@ theme_dark="true"
 # WALLPAPER
 bg_DIR="$HOME/.config/cosmic/com.system76.CosmicBackground/v1/all"
 bg_light="su-light.png" # CHANGE TO YOUR WALLPAPER NAME
-bg_dark="su-dark.jpeg" # CHANGE TO YOUR WALLAPAPER NAME
+bg_dark="su-dark.jpeg" # CHANGE TO YOUR WALLPAPER NAME
 
 # ICONS
 icons_DIR="$HOME/.config/cosmic/com.system76.CosmicTk/v1/icon_theme"
