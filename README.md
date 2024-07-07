@@ -1,6 +1,6 @@
 # Cosmic Theme Changer Bash Script
 
-Hello! Ever since Mozilla closed their API to third party Cosmic no longer switches theme as sunset _so_ I figured I would write a script to make things a little easier! Before we go any further **please back up the files listed in the DIR variables!** I am not responsible for any damage made to these config files.
+Hello! Ever since Mozilla closed their API to third party apps, Cosmic no longer switches theme as sunset _so_ I figured I would write a script to make things a little easier! Before we go any further **please back up the files listed in the DIR variables!** I am not responsible for any damage made to these config files.
 
 This can be used with either **darkman** or **crontab**
 
